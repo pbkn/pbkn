@@ -1,4 +1,7 @@
 ### Hi there 👋
+![pbkn's github stats](https://github-readme-stats.vercel.app/api?username=pbkn&show_icons=true)
+
+[![blog](https://img.shields.io/badge/blog-wss-lightgrey)](https://whysurfswim.com/pbkn/)
 
 <!--
 **pbkn/pbkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
